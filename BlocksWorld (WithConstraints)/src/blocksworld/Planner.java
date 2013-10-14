@@ -19,7 +19,7 @@ public class Planner
 // Outputs:
 //	** It outputs the plan to solve the problem
 /////////////////
-// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unpayable help of C.Levinas
+// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unaffordable help of C.Levinas
 
 
 	public static Block X = new Block("X", 1);
