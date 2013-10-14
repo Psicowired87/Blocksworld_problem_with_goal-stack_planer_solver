@@ -12,7 +12,7 @@ public class Operator
 // Outputs:
 //	** It is applied a given operator to the present state of the system
 /////////////////
-// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unpayable help of C.Levinas
+// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unaffordable help of C.Levinas
 
 
 	private OperatorName operatorName;
