@@ -15,7 +15,7 @@ public class PrintOutput
 // Outputs:
 //	** Print in screen
 /////////////////
-// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unpayable help of C.Levinas
+// Author: 'Toño G. Quintela' tgq.spm@gmail.com with the unaffordable help of C.Levinas
 
 
 
